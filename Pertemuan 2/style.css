@@ -1,0 +1,13 @@
+.first {
+  color: purple;
+}
+#second {
+  color: aqua;
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  border: 10px solid black;
+}
